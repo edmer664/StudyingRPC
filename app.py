@@ -10,9 +10,8 @@ RPC = Presence(client_id=client_id)
 RPC.connect()
 
 lines = [
-    "Please do not",
-    "Disturb me while",
-    "Studying, Thank you",
+    "PLEASE DO NOT",
+    "DISTURB ME, THANKS!",
 ]
             
 while 1:
