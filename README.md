@@ -19,3 +19,5 @@ when you're studying.
 3. navigate to the repository directory
 4. run `pip install -r requirements.txt`
 5. run `python app.py`
+
+> You can also add this to your PATH and launch it with Terminal/CMD
