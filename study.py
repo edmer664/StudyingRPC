@@ -11,7 +11,7 @@ RPC.connect()
 
 lines = [
     "PLEASE DO NOT",
-    "DISTURB ME, THANKS!",
+    "DISTURB, THANKS!",
 ]
             
 while 1:
