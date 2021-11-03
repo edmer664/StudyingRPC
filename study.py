@@ -16,7 +16,7 @@ lines = [
             
 while 1:
     for i in cycle(lines):
-        RPC.update(large_image="book", details="I'm studying",
+        RPC.update(small_image="book",large_image="book", details="I'm studying",
             state=i,
             start=start_time)
         time.sleep(3) 

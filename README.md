@@ -11,14 +11,14 @@ when you're studying.
 3. run `git clone `
 4. navigate to the repository directory
 6. run `pip install -r requirements.txt`
-7. run `python app.py`
+7. run `python study.py`
 
 #### Option 2
 1. Download the repository.
 2. extract the contents of zip file
 3. navigate to the repository directory
 4. run `pip install -r requirements.txt`
-5. run `python app.py`
+5. run `python study.py`
 
 ### Option 3
 1. Download the latest release
