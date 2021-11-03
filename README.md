@@ -13,9 +13,15 @@ when you're studying.
 6. run `pip install -r requirements.txt`
 7. run `python app.py`
 
-#### Or 
+#### Option 2
 1. Download the repository.
 2. extract the contents of zip file
 3. navigate to the repository directory
 4. run `pip install -r requirements.txt`
 5. run `python app.py`
+
+### Option 3
+1. Download the latest release
+2. extract the content and locate study.exe
+
+> You can also add this to your PATH and launch it with Terminal/CMD
