@@ -49,7 +49,7 @@
  [],
  False,
  False,
- 1635292218,
+ 1636161430,
  [('run.exe',
    'C:\\Users\\alapa\\Documents\\Programming\\NagmomoduleRPC\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
